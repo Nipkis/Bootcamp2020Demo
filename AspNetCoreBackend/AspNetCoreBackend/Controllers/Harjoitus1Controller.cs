@@ -11,9 +11,16 @@ namespace AspNetCoreBackend.Controllers
     [ApiController]
     public class Harjoitus1Controller : ControllerBase
     {
+        [Route("luku")]
         public int Luku()
         {
-            return 123;
-        }   
+            return 12345;
+        }
+
+        [Route("merkkijono")]
+        public string Merkkijono()
+        {
+            return "ABCDE";
+        }
     }
 }
