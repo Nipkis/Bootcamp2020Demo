@@ -1,12 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
+import Omakomponentti from './Omakomponentti';
+import Omakomponentti2 from './Omakomponentti2';
+import Omakomponentti3 from './Omakomponentti3';
+//import TodoKomponentti from './ToDoKomponentti';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    
+    <Omakomponentti />
+    <Omakomponentti2 />
+    <Omakomponentti3 />
   </React.StrictMode>,
   document.getElementById('root')
 );
