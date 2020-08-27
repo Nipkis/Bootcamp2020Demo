@@ -134,6 +134,7 @@ namespace FFXIV_Memory_Game
                 {
                     firstGuess = pic;
                 }
+                HideImages();
             }
             else
             {
