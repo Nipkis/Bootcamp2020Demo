@@ -16,7 +16,7 @@ namespace FFXIV_Memory_Game
         PictureBox firstGuess;
         Random rnd = new Random();
         Timer clickTimer = new Timer();
-        int time = 60;
+        int time = 180;
         Timer timer = new Timer { Interval = 1000 };
         public Form1()
         {
@@ -67,7 +67,7 @@ namespace FFXIV_Memory_Game
                 }
                 var ssTime = TimeSpan.FromSeconds(time);
 
-                label1.Text = "00: " + time.ToString();
+                label1.Text = time.ToString();
             };
         }
         private void ResetImages()
