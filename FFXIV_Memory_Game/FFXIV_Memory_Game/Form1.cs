@@ -79,7 +79,7 @@ namespace FFXIV_Memory_Game
             }
             HideImages();
             setRandomImages();
-            time = 60;
+            time = 180;
             timer.Start();
         }
         private void HideImages()

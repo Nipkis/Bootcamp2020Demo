@@ -2,9 +2,9 @@ C:\Bootcamp\Bootcamp2020Demo\FFXIV_Memory_Game\FFXIV_Memory_Game\bin\Debug\FFXIV
 C:\Bootcamp\Bootcamp2020Demo\FFXIV_Memory_Game\FFXIV_Memory_Game\bin\Debug\FFXIV_Memory_Game.exe
 C:\Bootcamp\Bootcamp2020Demo\FFXIV_Memory_Game\FFXIV_Memory_Game\bin\Debug\FFXIV_Memory_Game.pdb
 C:\Bootcamp\Bootcamp2020Demo\FFXIV_Memory_Game\FFXIV_Memory_Game\obj\Debug\FFXIV_Memory_Game.csprojAssemblyReference.cache
-C:\Bootcamp\Bootcamp2020Demo\FFXIV_Memory_Game\FFXIV_Memory_Game\obj\Debug\FFXIV_Memory_Game.Form1.resources
 C:\Bootcamp\Bootcamp2020Demo\FFXIV_Memory_Game\FFXIV_Memory_Game\obj\Debug\FFXIV_Memory_Game.Properties.Resources.resources
 C:\Bootcamp\Bootcamp2020Demo\FFXIV_Memory_Game\FFXIV_Memory_Game\obj\Debug\FFXIV_Memory_Game.csproj.GenerateResource.cache
 C:\Bootcamp\Bootcamp2020Demo\FFXIV_Memory_Game\FFXIV_Memory_Game\obj\Debug\FFXIV_Memory_Game.csproj.CoreCompileInputs.cache
 C:\Bootcamp\Bootcamp2020Demo\FFXIV_Memory_Game\FFXIV_Memory_Game\obj\Debug\FFXIV_Memory_Game.exe
 C:\Bootcamp\Bootcamp2020Demo\FFXIV_Memory_Game\FFXIV_Memory_Game\obj\Debug\FFXIV_Memory_Game.pdb
+C:\Bootcamp\Bootcamp2020Demo\FFXIV_Memory_Game\FFXIV_Memory_Game\obj\Debug\FFXIV_Memory_Game.Form1.resources
