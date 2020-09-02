@@ -26,7 +26,7 @@ namespace FFXIV_Memory_Game
         {
             get { return Controls.OfType<PictureBox>().ToArray();}
         }
-        private static IEnumerable<Image> images
+        private static IEnumerable<Image> images /* Haetaan käytettävät kuvat */
         {
             get
             {
@@ -53,7 +53,7 @@ namespace FFXIV_Memory_Game
                 };
             }
         }
-        private void startGameTimer()
+        private void startGameTimer() /* Käynnistetään aikalaskuri ja näytetään jäljellä oleva aika */
         {
             timer.Start();
             timer.Tick += delegate
@@ -82,7 +82,7 @@ namespace FFXIV_Memory_Game
             time = 180;
             timer.Start();
         }
-        private void HideImages()
+        private void HideImages() /* Laitetaan jokaiselle kuvalle kääntöpuoli eli "backside" */
         {
             foreach (var pic in pictureBoxes)
             {
